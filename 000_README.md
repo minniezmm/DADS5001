@@ -61,10 +61,10 @@ Other Data/AI Roles เพิ่มขึ้นจาก 51% → 70% ในช�
 </br>
 
 **Median Salary Heatmap (ซ้าย)** </br>
-- US นำโด่ง: ทุกตำแหน่งมี median salary สูงสุด</br>
-- Research Scientist มีรายได้ประมาณ 194k USD/ปี</br>
-- Machine Learning Engineer มีรายได้ประมาณ  190k USD/ปี</br>
-- AI Engineer มีรายได้ประมาณ 165k USD/ปี</br>
+US นำโด่ง: ทุกตำแหน่งมี median salary สูงสุด</br>
+Research Scientist มีรายได้ประมาณ 194k USD/ปี</br>
+Machine Learning Engineer มีรายได้ประมาณ  190k USD/ปี</br>
+AI Engineer มีรายได้ประมาณ 165k USD/ปี</br>
 
 **Job Count Heatmap (ขวา)** </br>
 - US ครองจำนวนงาน สูงสุดทุก role</br>
