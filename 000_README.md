@@ -18,8 +18,8 @@
 <p align="center"><b>รูปที่ 1 จำนวน Job ในแต่ละปี</b></p>
 
 </br>
-จากข้อมูล Job Posting ของทุกประเทศในช่วงปี 2020-2024  กราฟแสดงให้เห็นว่า ทุกตำแหน่งมีจำนวนงานเพิ่มขึ้นชัดเจน โดยเฉพาะช่วง 2022 ถึง 2024
-เส้นกราฟพุ่งขึ้นสูงมาก สะท้อนว่า demand ในสาย Data/AI ขยายตัวแรงในตลาด ถ้ามองไปที่จำนวนงานที่เกิดขึ้นจริง จะเห็นชัดเลยว่า ตลาด Data & AI กำลังเปลี่ยนแปลงอย่างรวดเร็ว
+
+จากข้อมูล Job Posting ของทุกประเทศในช่วงปี 2020-2024 กราฟแสดงให้เห็นว่า ทุกตำแหน่งงานมีจำนวนงานเพิ่มขึ้นชัดเจน โดยเฉพาะช่วง 2022 ถึง 2024 เส้นกราฟพุ่งขึ้นสูงมาก สะท้อนว่า demand ในสาย Data/AI ขยายตัวแรงในตลาด ถ้ามองไปที่จำนวนงานที่เกิดขึ้นจริง จะเห็นชัดเลยว่า Data science ยังคงเป็น role ที่มีความต้องการสูงสุดในปี 2024 Data Engineer และ Data analyse ยังคงเติบโต AI engineer เริ่มมีมากขึ้นหลังปี 2022 สอดคล้องกับกระแส Gen AI
 
 ##
 <h2>Data Science Roles Analysis (2020–2024)</h2>
@@ -31,11 +31,13 @@
 <p align="center"><b>รูปที่ 2 แนวโน้มจำนวน Job ระหว่าง Data Scientist และ Other Roles in 2020 - 2024</b></p>
 </br>
 </br>
-กราฟนี้แสดงจำนวนงาน (Job Count) ของ Data Scientist เทียบกับ role อื่น ๆ ในสาย Data/AI ตั้งแต่ปี 2020-2024   
-ทุก role มีจำนวนงานเพิ่มขึ้นอย่างชัดเจน โดยเฉพาะหลังปี 2022 เป็นต้นมา
-</br>
-Data Scientist ยังคงเติบโต แต่ specialist roles (AI Engineer, ML Engineer, Research Scientist, Data Engineer) โตแรงแบบก้าวกระโดด
-ตลาด Data/AI กำลังขยายจาก generalist → specialist
+
+กราฟนี้แสดงจำนวนงานของ Data Scientist เทียบกับงานอื่นๆในสาย Data/AI Roles ตั้งแต่ปี 2020-2024
+
+หลังปี 2022 เป็นต้นมา ภาพรวมของตลาดงาน Data/AI ขยายตัวแรงและเติบโตอย่างรวดเร็ว ทุก role มีจำนวนงานเพิ่มขึ้น
+
+Data Scientist ยังคงเติบโตต่อเนื่อง เพิ่มจาก 1925 งาน (2023) เป็น 8932 งาน(2024) 
+แต่   specialist roles เช่น AI Engineer, ML Engineer, Research Scientist, Data Engineer ก็ขยายตัวแรง เพิ่มจาก 4520 งาน (2023) เป็น 19817 งาน (2024)
 </br>
 </br>
 
@@ -46,11 +48,22 @@ Data Scientist ยังคงเติบโต แต่ specialist roles (AI 
 </p>
 <p align="center"><b>รูปที่ 3 % Share role ของ Data Scientist และ Role อื่น </b></p>
 </br>
-จากกราฟนี้ แสดงให้เห็นการเปลี่ยนแปลงของสัดส่วน (%) ชัดเจน โดยพบว่า</br>
-Data Scientist ลดลงจาก 49% → 30% (2020–2023)</br>
-Other Data/AI Roles เพิ่มขึ้นจาก 51% → 70% ในช่วงเดียวกัน</br>
-ปี 2024 Data Scientist มี rebound เล็กน้อย แต่ยังตามหลัง specialist roles
 
+จากกราฟนี้ แสดงให้เห็นการเปลี่ยนแปลงของ สัดส่วนงาน (%) ระหว่าง Data Scientist และ role อื่นๆ
+
+จากกราฟ Data Scientist: ลดลงจาก 49% (2020) → 31.1% (2024)
+
+Other Data/AI Roles: เพิ่มขึ้นจาก 51% (2020) → 68.9% (2024)
+
+จุดที่เปลี่ยนแปลงชัดเจนเกิดขึ้นในช่วง 2022-2024 ซึ่งเป็นยุค AI boom
+
+การเติบโตของ Generative AI, LLMs และ Foundation Models ทำให้ตลาดต้องการ specialist roles มากขึ้น
+
+Data Scientist ยังไม่หายไป แต่บทบาทอาจเปลี่ยนแปลงไป: จาก “model builder” สู่ “AI practitioner”  มากขึ้น
+
+และ Other Roles ครองสัดส่วนหลักของตลาด และสะท้อนว่าตลาด Data/AI กำลังเข้าสู่ยุคของ ความเชี่ยวชาญเฉพาะทาง (specialization) มากกว่าการพึ่ง generalist เพียงอย่างเดียว
+
+อาจกล่าวได้ว่า: จาก “Sexiest Job” กำลังเปลี่ยนเข้าสู่ “Specialist Ecosystem”มากขึ้น Data Scientist ยังคงมีความสำคัญ แต่ spotlight กำลังถูกแชร์ให้กับ specialist roles ที่เติบโตพร้อมกันในยุค AI ใหม่ มากขึ้น
 ##
 </br>
 <p align="center">
@@ -60,18 +73,27 @@ Other Data/AI Roles เพิ่มขึ้นจาก 51% → 70% ในช�
 </br>
 </br>
 
+จากก่อนหน้านี้ที่เราดู “จำนวนงาน” → คราวนี้เราจะดู “รายได้” กันบ้าง  
+เพราะความ “sexy” ของงานไม่ได้มีแค่ demand  
+แต่ยังรวมถึง **การได้รับค่าตอบแทนที่คุ้มค่า**
+
+
 **Median Salary Heatmap (ซ้าย)** </br>
-- US นำโด่ง: ทุกตำแหน่งมี median salary สูงสุด</br>
+จากกราฟ US นำโด่ง: ทุกตำแหน่งมี median salary สูงสุด</br>
+ top 3 ตำแหน่งงานเงินเดือนสูงสุด
 - Research Scientist มีรายได้ประมาณ 194k USD/ปี</br>
 - Machine Learning Engineer มีรายได้ประมาณ  190k USD/ปี</br>
 - AI Engineer มีรายได้ประมาณ 165k USD/ปี</br>
 
 **Job Count Heatmap (ขวา)** </br>
-- US ครองจำนวนงาน สูงสุดทุก role</br>
+จากกราฟ US ครองจำนวนงาน สูงสุดทุก role</br>
 - Data Scientist มีตำแหน่งที่เปิดรับ 8,238 ตำแหน่ง</br>
 - Data Engineer มีตำแหน่งที่เปิดรับ 6,261 ตำแหน่ง</br>
 - Machine Learning Engineer มีตำแหน่งที่เปิดรับ 4,223 ตำแหน่ง</br>
 
+---
+จะเห็นได้ว่า
+- US = High Pay + High Demand → ตลาดที่ดึงดูด talent มากที่สุด
 ##
 </br>
 <p align="center">
